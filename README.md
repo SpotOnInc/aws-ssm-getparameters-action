@@ -1,3 +1,7 @@
+# ARCHIVE INFORMATION
+> [!IMPORTANT]
+> Due to lack of usage and maintenance, this repository has been archived.  
+> Please read the [repository archival FAQ](https://docs.corp.spoton.sh/developer/undocumented-repositories-archival-faq/) for more information!
 # AWS SSM Parameter Store GetParameters Action
 
 Forked from: https://github.com/dkershner6/aws-ssm-getparameters-action
